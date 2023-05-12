@@ -16,22 +16,20 @@ You can find the wikidata IDs by searching for proper nouns (including relevant 
        
 You can use this within a sentence. For example: The <span eid="Q170662">Mangosteen</span> is a non-native fruit found in Singapore.
 <param ve-image 
-       title="Mangosteen"
        url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       label="Mangosteen Photograph" 
+       title="Mangosteen Photograph" 
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
        
 Marianne North painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875.
 <param ve-image 
-       title="Mangosteen"
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
-       label="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
+       title="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
        description="Held by Kew Gardens."
        license="CC BY-NC">
        
 ## Map
 
-Mangosteens are found in Singapore.
+Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.
 <param ve-map center="Q334" zoom="11" prefer-geojson>
 
 ## Multiple viewers

@@ -39,10 +39,18 @@ These are both examples of images added *from urls*. This is the preferred metho
        title="Victoria crowned pigeon"
        attribution="Katherine Enright">
        
+### ALSO: IIIF MANIFEST + MULTIPLE IMAGE COMPARISONS/OVERLAY + GALLERY
+       
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.
 <param ve-map center="Q334" zoom="11" prefer-geojson>
+
+### ADD MORE INFO ON MAPS
+
+### ADD INFO ON YOUTUBE VIDEOS
+
+### ADD INFO ON TIMELINES
 
 ## Multiple viewers
 

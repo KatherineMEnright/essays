@@ -48,7 +48,9 @@ Mangosteens are found in Singapore. This takes a base map and sets the center to
 
 ### ADD MORE INFO ON MAPS
 
-### ADD INFO ON YOUTUBE VIDEOS
+## Add a YouTube Video
+You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
+<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
 
 ### ADD INFO ON TIMELINES
 

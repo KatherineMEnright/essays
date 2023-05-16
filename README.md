@@ -41,7 +41,7 @@ These are both examples of images added *from urls*. This is the preferred metho
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
-<param ve-map center="1.35, 103.9" zoom="10">
+<param ve-map center="1.35, 103.9" zoom="11">
 <param ve-map-marker
        url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
        coords="1.3621, 103.8198"

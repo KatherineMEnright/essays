@@ -17,7 +17,7 @@ This is how you add a footnote. [^1]
 This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
 You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
 
-##Adding Images
+## Adding Images
        
 You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image.
 <param ve-image 

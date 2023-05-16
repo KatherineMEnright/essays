@@ -65,7 +65,10 @@ You can create custom regions just by drawing shapes (no coding needed) using [g
 You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
 <param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
 
-### ADD INFO ON TIMELINES
+## Add a Timeline
+This uses the Knightlab platform. The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
+<param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
+
 
 ## Multiple viewers
 

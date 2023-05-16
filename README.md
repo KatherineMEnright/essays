@@ -66,7 +66,7 @@ You can take the id from the YouTube URL. You can also define the start time wit
 <param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
 
 ## Add a Timeline
-This uses the Knightlab platform. The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
+This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
 <param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
 
 

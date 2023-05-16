@@ -15,7 +15,7 @@ This is how you add a footnote. [^1]
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
 This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
-You can find the wikidata IDs by searching for proper nouns (including relevant background information) [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
+You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
 
 ##Adding Images
        
@@ -33,14 +33,11 @@ You can use the QID tag within a sentence. For example: The <span eid="Q170662">
        attribution="Marianne North"
        license="CC BY-NC">
        
-These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
+These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
 <param ve-image 
        url="media/victoria-crowned=pigeon.jpg"
        title="Victoria crowned pigeon"
-       attribution="Katherine Enright">
-       
-### ALSO: IIIF MANIFEST + MULTIPLE IMAGE COMPARISONS/OVERLAY + GALLERY
-       
+       attribution="Katherine Enright">     
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.

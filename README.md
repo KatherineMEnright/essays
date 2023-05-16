@@ -41,17 +41,17 @@ These are both examples of images added *from urls*. This is the preferred metho
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.
-<param ve-map center="2, 40" zoom="4">
+<param ve-map center="1, 130" zoom="4">
 <param ve-map-marker
        url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="17.188263050774324, 52.28406397248149"
+       coords="1.3521, 103.8198"
        size="38, 95"
        iconAnchor="22, 94"
        shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
        shadowSize="50, 64">
 <param ve-map-marker
 url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="-7.182405194219532, 35.05200886854757"
+       coords="1.352129405, 103.819807463"
        size="129, 170"
        circle="true">
     

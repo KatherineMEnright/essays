@@ -41,9 +41,19 @@ These are both examples of images added *from urls*. This is the preferred metho
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.
-<param ve-map center="0.040297, -71.224280" zoom="3.8" marker-type="circle" stroke-width="0" fill-opacity="1">
-<param ve-map-layer geojson active title="Aurea" url="https://jstor-labs.github.io/plant-humanities/data/heliconia-aurea.tsv" fill="#D11141" radius="6">  
-<param ve-map-layer geojson active title="Bihai" url="https://jstor-labs.github.io/plant-humanities/data/heliconia-bihai.tsv" radius="4.5" fill="#009900"> 
+<param ve-map center="2, 40" zoom="4">
+<param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="17.188263050774324, 52.28406397248149"
+       size="38, 95"
+       iconAnchor="22, 94"
+       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
+       shadowSize="50, 64">
+<param ve-map-marker
+url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
+       coords="-7.182405194219532, 35.05200886854757"
+       size="129, 170"
+       circle="true">
     
 
 ### ADD MORE INFO ON MAPS

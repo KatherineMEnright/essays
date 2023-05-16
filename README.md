@@ -55,6 +55,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_
        size="129, 170"
        circle="true">
     
+You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20)
 
 ### ADD MORE INFO ON MAPS
 

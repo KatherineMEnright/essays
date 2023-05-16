@@ -41,7 +41,8 @@ These are both examples of images added *from urls*. This is the preferred metho
 ## Map
 
 Mangosteens are found in Singapore. This takes a base map and sets the center to the Wiki ID for Singapore.
-<param ve-map center="Q334" zoom="11" prefer-geojson>
+	<param ve-map center="32.262084, 64.391554" zoom="2.5" stroke-width="0" show-labels>
+	<param ve-map-layer geojson url="/geojson/peony.json" title="Peony Distribution" active> 
 
 ### ADD MORE INFO ON MAPS
 

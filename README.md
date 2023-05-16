@@ -55,6 +55,7 @@ url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_
        size="129, 170"
        circle="true">
     
+    
 You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20). Then you can download the shape file and add it to your juncture media file as a map layer. Let's imagine this is the distribution range of your species.
 <param ve-map center="1.35, 103.9" zoom="2">
 <param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 

@@ -19,7 +19,7 @@ You can find the wikidata IDs by searching for proper nouns [here](https://www.w
 
 ## Adding Images
        
-You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image.
+You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate**
 <param ve-image 
        url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        title="Mangosteen Photograph" 

@@ -76,7 +76,10 @@ This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-en
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-iframe src="https://digitalgems.nus.edu.sg/persistent/18fac49d-e52d-4893-9b3e-5bf7dcd1dfbf#page=5&zoom=auto,-355,886">
+<param ve-image 
+       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       title="Mangosteen Photograph" 
+       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
 <param ve-map center="Q334" zoom="11" prefer-geojson>
 
 # References

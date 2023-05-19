@@ -81,6 +81,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        title="Mangosteen Photograph" 
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
 <param ve-map center="Q334" zoom="11" prefer-geojson>
+<param ve-iframe src="http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19460221-1.2.27">
 
 # References
 

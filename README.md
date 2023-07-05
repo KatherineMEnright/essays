@@ -66,6 +66,7 @@ You can create custom regions just by drawing shapes (no coding needed) using [g
 ## Add a YouTube Video
 You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
 <param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
+<param ve-iframe src="https://www.nlb.gov.sg/staticassets/exhibitions/virtual/humanxnature/virtualtour/htmlfiles/html_Section3/T3_2_SungeiBuloh.html">
 
 ## Add a Timeline
 This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
